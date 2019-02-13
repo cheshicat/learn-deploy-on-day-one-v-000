@@ -133,12 +133,12 @@ a:visited {
   height: 400px;
 }
 
-#allison-howard-cover { url("")
-
+#allison-howard-cover { 
+  background-image: url("")
 }
 
-#allison-howard-card { url("")
-
+#allison-howard-card { 
+  background-image: url("")
 }
 
 #joe-burgess-card {
